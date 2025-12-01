@@ -168,7 +168,7 @@ import {
   MobileIcon, ChatBubbleIcon, PaperPlaneIcon, ArchiveIcon, PlayIcon as PlayRadix, PauseIcon as PauseRadix, SpeakerLoudIcon, CameraIcon as CameraRadix,
   FileIcon, FileTextIcon as FileTextRadix, TextIcon, ImageIcon as ImageRadix, FrameIcon, VideoIcon, DiscIcon, BookmarkIcon as BookmarkRadix,
   CheckCircledIcon, CrossCircledIcon, TriangleUpIcon, ReloadIcon, CalendarIcon as CalendarRadix, ClockIcon as ClockRadix, BookmarkFilledIcon,
-  CardStackIcon, CurrencyDollarIcon as DollarRadix, BackpackIcon, CubeIcon, Share1Icon, ThickArrowUpIcon, TargetIcon,
+  CardStackIcon, DollarSign as DollarRadix, BackpackIcon, CubeIcon, Share1Icon, ThickArrowUpIcon, TargetIcon,
   MixIcon, LightningBoltIcon, StackIcon as DatabaseRadix, CodeIcon, DashboardIcon, GitHubLogoIcon, ComponentInstanceIcon, MixerHorizontalIcon, DrawingPinIcon, GlobeIcon as GlobeRadix
 } from '@radix-ui/react-icons';
 
