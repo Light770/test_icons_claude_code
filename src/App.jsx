@@ -129,7 +129,7 @@ import {
   GoHome, GoSearch, GoHeart, GoStar, GoPackage, GoPerson, GoGear, GoMail, GoBell, GoDownload,
   GoUpload, GoTrash, GoPencil, GoEye, GoLock, GoCheck, GoX, GoAlert, GoInfo, GoQuestion,
   GoThreeBars, GoChevronRight as GoChevronRightOct, GoArrowLeft as GoArrowLeftOct, GoArrowRight as GoArrowRightOct, GoSignIn, GoSignOut, GoPeople, GoPersonAdd,
-  GoDeviceMobile, GoComment, GoMailRead, GoInbox, GoPlay, GoMute, GoUnmute, GoVideo as GoDeviceCamera,
+  GoDeviceMobile, GoComment, GoInbox, GoPlay, GoMute, GoUnmute, GoVideo as GoDeviceCamera,
   GoFile, GoFileDirectory, GoFileCode, GoFileMedia, GoFile as GoFileZip, GoFileBinary, GoDatabase as GoDatabaseOct, GoBookmark,
   GoCheckCircle, GoXCircle, GoStop, GoSync, GoCalendar, GoClock, GoBookmark as GoBookmarkOct,
   GoCreditCard, GoCircle as GoDollarOct, GoPackageDependencies, GoPackage as GoPackageOct, GoShare as GoShareAndroid, GoThumbsup, GoTrophy,
@@ -199,7 +199,7 @@ const App = () => {
       { name: 'Bell', lucide: <Bell />, fa: <FaBell />, md: <MdNotifications />, hero: <BellIcon />, feather: <FeatherIcons.Bell />, ion: <IoNotifications />, bs: <BsBell />, tabler: <IconBell />, phosphor: <PhosphorBell />, antd: <BellOutlined />, remix: <RiNotification2Line />, octicon: <GoBell />, iconoir: <BellIconoir />, carbon: <Notification />, radix: <BellRadix /> },
       { name: 'Phone', lucide: <Phone />, fa: <FaPhone />, md: <MdPhone />, hero: <PhoneIcon />, feather: <FeatherIcons.Phone />, ion: <IoCall />, bs: <BsTelephone />, tabler: <IconPhone />, phosphor: <PhoneCall />, antd: <PhoneOutlined />, remix: <RiPhoneLine />, octicon: <GoDeviceMobile />, iconoir: <PhoneIconoir />, carbon: <PhoneCarbon />, radix: <MobileIcon /> },
       { name: 'Message', lucide: <MessageCircle />, fa: <FaComment />, md: <MdMessage />, hero: <ChatBubbleLeftIcon />, feather: <FeatherIcons.MessageCircle />, ion: <IoChatbubble />, bs: <BsChat />, tabler: <IconMessage />, phosphor: <ChatCircle />, antd: <MessageOutlined />, remix: <RiMessage2Line />, octicon: <GoComment />, iconoir: <ChatBubble />, carbon: <Chat />, radix: <ChatBubbleIcon /> },
-      { name: 'Send', lucide: <Send />, fa: <FaPaperPlane />, md: <MdSend />, hero: <PaperAirplaneIcon />, feather: <FeatherIcons.Send />, ion: <IoSend />, bs: <BsSend />, tabler: <IconSend />, phosphor: <PaperPlaneTilt />, antd: <SendOutlined />, remix: <RiSendPlaneLine />, octicon: <GoMailRead />, iconoir: <SendDiagonal />, carbon: <SendAlt />, radix: <PaperPlaneIcon /> },
+      { name: 'Send', lucide: <Send />, fa: <FaPaperPlane />, md: <MdSend />, hero: <PaperAirplaneIcon />, feather: <FeatherIcons.Send />, ion: <IoSend />, bs: <BsSend />, tabler: <IconSend />, phosphor: <PaperPlaneTilt />, antd: <SendOutlined />, remix: <RiSendPlaneLine />, octicon: <GoMail />, iconoir: <SendDiagonal />, carbon: <SendAlt />, radix: <PaperPlaneIcon /> },
       { name: 'Inbox', lucide: <Inbox />, fa: <FaInbox />, md: <MdInbox />, hero: <InboxIcon />, feather: <FeatherIcons.Inbox />, ion: <IoMailOpen />, bs: <BsInbox />, tabler: <IconInbox />, phosphor: <Tray />, antd: <InboxOutlined />, remix: <RiInboxLine />, octicon: <GoInbox />, iconoir: <InboxIconoir />, carbon: <MailAll />, radix: <ArchiveIcon /> },
     ],
     user: [
