@@ -128,7 +128,7 @@ import {
 import {
   GoHome, GoSearch, GoHeart, GoStar, GoPackage, GoPerson, GoGear, GoMail, GoBell, GoDownload,
   GoUpload, GoTrash, GoPencil, GoEye, GoLock, GoCheck, GoX, GoAlert, GoInfo, GoQuestion,
-  GoThreeBars, GoChevronRight as GoChevronRightOct, GoArrowLeft as GoArrowLeftOct, GoArrowRight as GoArrowRightOct, GoSignIn, GoSignOut, GoPeople, GoPersonAdd,
+  GoCodeSquare as GoThreeBars, GoChevronRight as GoChevronRightOct, GoArrowLeft as GoArrowLeftOct, GoArrowRight as GoArrowRightOct, GoSignIn, GoSignOut, GoPeople, GoPersonAdd,
   GoDeviceMobile, GoComment, GoInbox, GoPlay, GoMute, GoUnmute, GoVideo as GoDeviceCamera,
   GoFile, GoFileDirectory, GoFileCode, GoFileMedia, GoFile as GoFileZip, GoFileBinary, GoDatabase as GoDatabaseOct, GoBookmark,
   GoCheckCircle, GoXCircle, GoStop, GoSync, GoCalendar, GoClock, GoBookmark as GoBookmarkOct,
