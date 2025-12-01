@@ -140,7 +140,7 @@ import {
 import {
   Home as HomeIconoir, Search as SearchIconoir, Heart as HeartIconoir, Star as StarIconoir, Cart as CartIconoir, User as UserIconoir, Settings as SettingsIconoir, Mail as MailIconoir, Bell as BellIconoir, Download as DownloadIconoir,
   Upload as UploadIconoir, Trash as TrashIconoir, Edit as EditIconoir, Eye as EyeIconoir, Lock as LockIconoir, Check as CheckIconoir, Xmark as XIconoir, WarningCircle as AlertIconoir, InfoCircle as InfoIconoir, HelpCircle as HelpIconoir,
-  Menu as MenuIconoir, NavArrowRight, NavArrowLeft, NavArrowRight as NavRightIconoir, LogIn as LogInIconoir, LogOut as LogOutIconoir, Group as GroupIconoir, AddUser as AddUserIconoir,
+  Menu as MenuIconoir, NavArrowRight, NavArrowLeft, NavArrowRight as NavRightIconoir, LogIn as LogInIconoir, LogOut as LogOutIconoir, Group as GroupIconoir, UserPlus as AddUserIconoir,
   Phone as PhoneIconoir, ChatBubble, SendDiagonal, Inbox as InboxIconoir, Play as PlayIconoir, Pause as PauseIconoir, SoundHigh, Camera as CameraIconoir,
   Page as PageIconoir, Folder as FolderIconoir, PageEdit, MediaImage, MusicNote as MusicIconoir, VideoCamera as VideoIconoir, Disc as DiscIconoir, FloppyDisk as SaveIconoir,
   CheckCircle as CheckCircleIconoir, XmarkCircle, WarningTriangle, Refresh, Calendar as CalendarIconoir, Clock as ClockIconoir, BookmarkBook,
