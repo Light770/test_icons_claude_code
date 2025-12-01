@@ -141,7 +141,7 @@ import {
   Home as HomeIconoir, Search as SearchIconoir, Heart as HeartIconoir, Star as StarIconoir, Cart as CartIconoir, User as UserIconoir, Settings as SettingsIconoir, Mail as MailIconoir, Bell as BellIconoir, Download as DownloadIconoir,
   Upload as UploadIconoir, Trash as TrashIconoir, Edit as EditIconoir, Eye as EyeIconoir, Lock as LockIconoir, Check as CheckIconoir, Xmark as XIconoir, WarningCircle as AlertIconoir, InfoCircle as InfoIconoir, HelpCircle as HelpIconoir,
   Menu as MenuIconoir, NavArrowRight, NavArrowLeft, NavArrowRight as NavRightIconoir, LogIn as LogInIconoir, LogOut as LogOutIconoir, Group as GroupIconoir, UserPlus as AddUserIconoir,
-  Phone as PhoneIconoir, ChatBubble, SendDiagonal, Inbox as InboxIconoir, Play as PlayIconoir, Pause as PauseIconoir, SoundHigh, Camera as CameraIconoir,
+  Phone as PhoneIconoir, ChatBubble, SendDiagonal, Mail as InboxIconoir, Play as PlayIconoir, Pause as PauseIconoir, SoundHigh, Camera as CameraIconoir,
   Page as PageIconoir, Folder as FolderIconoir, PageEdit, MediaImage, MusicNote as MusicIconoir, VideoCamera as VideoIconoir, CompactDisc as DiscIconoir, FloppyDisk as SaveIconoir,
   CheckCircle as CheckCircleIconoir, XmarkCircle, WarningTriangle, Refresh, Calendar as CalendarIconoir, Clock as ClockIconoir, BookmarkBook,
   CreditCard as CreditCardIconoir, DollarCircle, Bag, Packages, ShareIos, ThumbsUp as ThumbsUpIconoir, Trophy as TrophyIconoir,
