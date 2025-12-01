@@ -60,7 +60,7 @@ import {
   IoCall, IoChatbubble, IoSend, IoMailOpen, IoPlay, IoPause, IoVolumeHigh, IoCamera,
   IoDocument, IoFolder, IoDocumentText, IoImage as IoImageIcon, IoMusicalNotes, IoVideocam, IoDisc, IoSave,
   IoCheckmarkCircle, IoCloseCircle, IoWarning, IoReload, IoCalendar, IoTime, IoBookmark,
-  IoCard, IoCash, IoBag, IoPackage as IoPackageIcon, IoShareSocial, IoThumbsUp, IoTrophy,
+  IoCard, IoCash, IoBag, IoCube as IoPackageIcon, IoShareSocial, IoThumbsUp, IoTrophy,
   IoConstruct, IoFlash, IoServer, IoCodeSlash, IoTerminal, IoLogoGithub, IoHardwareChip, IoFunnel, IoMap as IoMapIcon, IoEarth
 } from 'react-icons/io5';
 
