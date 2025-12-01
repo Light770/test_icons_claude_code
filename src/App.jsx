@@ -133,7 +133,7 @@ import {
   GoFile, GoFileDirectory, GoFileCode, GoFileMedia, GoFile as GoFileZip, GoFileBinary, GoDatabase as GoDatabaseOct, GoBookmark,
   GoCheckCircle, GoXCircle, GoStop, GoSync, GoCalendar, GoClock, GoBookmark as GoBookmarkOct,
   GoCreditCard, GoCircle as GoDollarOct, GoPackageDependencies, GoPackage as GoPackageOct, GoShare as GoShareAndroid, GoThumbsup, GoTrophy,
-  GoTools, GoZap, GoDatabase as GoDbOct, GoCode as GoCodeOct, GoTerminal as GoTerminalOct, GoMarkGithub, GoCpu, GoFilter, GoLocation, GoGlobe as GoGlobeOct
+  GoTools, GoZap, GoDatabase as GoDbOct, GoCode as GoCodeOct, GoTerminal as GoTerminalOct, GoLogoGithub, GoCpu, GoFilter, GoLocation, GoGlobe as GoGlobeOct
 } from 'react-icons/go';
 
 // Iconoir
@@ -264,7 +264,7 @@ const App = () => {
       { name: 'Code', lucide: <Code />, fa: <FaCode />, md: <MdCode />, hero: <CodeBracketIcon />, feather: <FeatherIcons.Code />, ion: <IoCodeSlash />, bs: <BsCode />, tabler: <IconCodeTabler />, phosphor: <CodePhosphor />, antd: <CodeOutlined />, remix: <RiCodeLine />, octicon: <GoCodeOct />, iconoir: <CodeIconoir />, carbon: <CodeCarbon />, radix: <CodeIcon /> },
       { name: 'Terminal', lucide: <Terminal />, fa: <FaTerminal />, md: <MdTerminalIcon />, hero: <CommandLineIcon />, feather: <FeatherIcons.Terminal />, ion: <IoTerminal />, bs: <BsTerminalIcon />, tabler: <IconTerminal2 />, phosphor: <TerminalPhosphor />, antd: <ConsoleSqlOutlined />, remix: <RiTerminalBoxLine />, octicon: <GoTerminalOct />, iconoir: <TerminalIconoir />, carbon: <TerminalCarbon />, radix: <DashboardIcon /> },
       { name: 'Database', lucide: <Database />, fa: <FaDatabase />, md: <MdStorage />, hero: <DatabaseIcon />, feather: <FeatherIcons.Database />, ion: <IoServer />, bs: <BsDatabaseIcon />, tabler: <IconDatabaseTabler />, phosphor: <DatabasePhosphor />, antd: <DatabaseOutlined />, remix: <RiDatabase2Line />, octicon: <GoDbOct />, iconoir: <DatabaseBackup />, carbon: <Db2Database />, radix: <DatabaseRadix /> },
-      { name: 'GitHub', lucide: <Github />, fa: <FaGithub />, md: <MdGitHub />, hero: <GithubIconHero />, feather: <FeatherIcons.Github />, ion: <IoLogoGithub />, bs: <BsGithub />, tabler: <IconBrandGithub />, phosphor: <GithubLogo />, antd: <GithubOutlined />, remix: <RiGithubLine />, octicon: <GoMarkGithub />, iconoir: <GithubIconoir />, carbon: <LogoGithub />, radix: <GitHubLogoIcon /> },
+      { name: 'GitHub', lucide: <Github />, fa: <FaGithub />, md: <MdGitHub />, hero: <GithubIconHero />, feather: <FeatherIcons.Github />, ion: <IoLogoGithub />, bs: <BsGithub />, tabler: <IconBrandGithub />, phosphor: <GithubLogo />, antd: <GithubOutlined />, remix: <RiGithubLine />, octicon: <GoLogoGithub />, iconoir: <GithubIconoir />, carbon: <LogoGithub />, radix: <GitHubLogoIcon /> },
       { name: 'CPU', lucide: <Cpu />, fa: <FaMicrochip />, md: <MdMemory />, hero: <CpuChipIcon />, feather: <FeatherIcons.Cpu />, ion: <IoHardwareChip />, bs: <BsCpu />, tabler: <IconCpuTabler />, phosphor: <CpuPhosphor />, antd: <CloudServerOutlined />, remix: <RiCpuLine />, octicon: <GoCpuOct />, iconoir: <CpuIconoir />, carbon: <Chip />, radix: <ComponentInstanceIcon /> },
     ],
   };
