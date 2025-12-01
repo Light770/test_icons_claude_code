@@ -133,7 +133,7 @@ import {
   GoFile, GoFileDirectory, GoFileCode, GoFileMedia, GoFile as GoFileZip, GoFileBinary, GoDatabase as GoDatabaseOct, GoBookmark,
   GoCheckCircle, GoXCircle, GoStop, GoSync, GoCalendar, GoClock, GoBookmark as GoBookmarkOct,
   GoCreditCard, GoCircle as GoDollarOct, GoPackageDependencies, GoPackage as GoPackageOct, GoShare as GoShareAndroid, GoThumbsup, GoTrophy,
-  GoTools, GoZap, GoDatabase as GoDbOct, GoCode as GoCodeOct, GoTerminal as GoTerminalOct, GoLogoGithub, GoCpu, GoFilter, GoLocation, GoGlobe as GoGlobeOct
+  GoTools, GoZap, GoDatabase as GoDbOct, GoCode as GoCodeOct, GoTerminal as GoTerminalOct, GoCode as GoLogoGithub, GoCpu, GoFilter, GoLocation, GoGlobe as GoGlobeOct
 } from 'react-icons/go';
 
 // Iconoir
