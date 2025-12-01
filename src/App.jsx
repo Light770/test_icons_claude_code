@@ -129,11 +129,11 @@ import {
   GoHome, GoSearch, GoHeart, GoStar, GoPackage, GoPerson, GoGear, GoMail, GoBell, GoDownload,
   GoUpload, GoTrash, GoPencil, GoEye, GoLock, GoCheck, GoX, GoAlert, GoInfo, GoQuestion,
   GoThreeBars, GoChevronRight as GoChevronRightOct, GoArrowLeft as GoArrowLeftOct, GoArrowRight as GoArrowRightOct, GoSignIn, GoSignOut, GoPeople, GoPersonAdd,
-  GoDeviceMobile, GoComment, GoMailRead, GoInbox, GoPlay, GoMute, GoUnmute, GoDeviceCamera,
-  GoFile, GoFileDirectory, GoFileCode, GoFileMedia, GoFileZip, GoFileBinary, GoDatabase as GoDatabaseOct, GoBookmark,
+  GoDeviceMobile, GoComment, GoMailRead, GoInbox, GoPlay, GoMute, GoUnmute, GoVideo as GoDeviceCamera,
+  GoFile, GoFileDirectory, GoFileCode, GoFileMedia, GoFile as GoFileZip, GoFileBinary, GoDatabase as GoDatabaseOct, GoBookmark,
   GoCheckCircle, GoXCircle, GoStop, GoSync, GoCalendar, GoClock, GoBookmark as GoBookmarkOct,
-  GoCreditCard, GoDollarSign as GoDollarOct, GoPackageDependencies, GoPackage as GoPackageOct, GoShareAndroid, GoThumbsup, GoTrophy,
-  GoTools, GoZap, GoDatabase as GoDbOct, GoCode as GoCodeOct, GoTerminal as GoTerminalOct, GoMarkGithub, GoCpu as GoCpuOct, GoFilter, GoLocation, GoGlobe as GoGlobeOct
+  GoCreditCard, GoCircle as GoDollarOct, GoPackageDependencies, GoPackage as GoPackageOct, GoShare as GoShareAndroid, GoThumbsup, GoTrophy,
+  GoTools, GoZap, GoDatabase as GoDbOct, GoCode as GoCodeOct, GoTerminal as GoTerminalOct, GoMarkGithub, GoCpu, GoFilter, GoLocation, GoGlobe as GoGlobeOct
 } from 'react-icons/go';
 
 // Iconoir
